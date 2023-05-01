@@ -9,7 +9,7 @@ public class DogTestArrayList {
 		dog.add(new Dog("아톰", "슈나우저"));
 		dog.add(new Dog("뽀삐", "말티즈"));
 		dog.add(new Dog("봉숙이", "치와와"));
-		dog.add(new Dog("댕댕", "셰퍼트"));
+		dog.add(new Dog("댕댕이", "셰퍼트"));
 		dog.add(new Dog("초코", "푸들"));
 		
 		for(int i =0; i<dog.size(); i++) {
